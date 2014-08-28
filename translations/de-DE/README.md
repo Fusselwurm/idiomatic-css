@@ -30,15 +30,15 @@ trage bei.
 > „Ein Teil der Aufgabe eines guten Verwalters eines erfolgreichen Projekts ist
 > es, zu realisieren, dass Code für sich selbst zu schreiben eine schlechte
 > Idee™ ist. Wenn tausende Leute deinen Code verwenden, dann schreibe deinen
-> Code für maximale Klarheit, nicht nach deinen persönlichen Vorlieben, wie
+> Code mit maximaler Klarheit, nicht nach deinen persönlichen Vorlieben, wie
 > man innerhalb der Spezifikation gerissen sein kann.“ - Idan Gazit
 
 * Du bist kein menschlicher Code-Compiler/Kompressor, versuche also nicht,
   einer zu sein.
-* Der gesamte Code in jeder Code-Basis soll aussehen wie von einer einzigen
-  Person eingegeben, unabhängig davon wieviele Leute beigetragen haben.
-* Erzwinge den vereinbarten Stil streng.
-* Im Zweifel bei einer Stilentscheidung verwende bestehende, übliche Muster.
+* Jede Code-Basis soll aussehen wie von einer einzigen
+  Person geschrieben, unabhängig von der tatsächlichen Anzahl Mitwirkender.
+* Setze den vereinbarten Stil strikt durch.
+* Bei einer Stilentscheidung verwende im Zweifelsfall bestehende, übliche Muster.
 
 
 <a name="whitespace"></a>
@@ -68,8 +68,8 @@ wurden, verwalten zu helfen.
 
 Gut kommentierter Code ist extrem wichtig. Nimm dir Zeit, Komponenten zu
 beschreiben, wie sie arbeiten, welche Beschränkungen sie haben und wie sie
-gebaut sind.  Lass andere im Team nicht raten, was den Zweck von ungewöhnlichem
-oder nicht offensichtlichem Code betrifft.
+gebaut sind. Andere Teammitglieder sollten den Zweck von ungewöhnlichem
+oder nicht offensichtlichem Code nicht raten müssen.
 
 Der Kommentarstil soll einfach und konsistent innerhalb einer einzelnen
 Code-Basis sein.
